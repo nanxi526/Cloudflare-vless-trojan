@@ -3,6 +3,7 @@
   "main": "Vless_workers_pages/_worker.js",
   "workers_dev": true,
   "compatibility_date": "2025-11-22",
+  "no_bundle": true,
   "vars": {
     "uuid": "7f3a9c2e-4b1d-4e8a-9c6f-2d5a8b1e3f47"
   }
